@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+    .container {
+        color: black;
+        height: 500px;
+        width: 500px;
+    }
+    input {
+        margin: 10px;
+    }
+    h4 {
+        margin-top: 50px;
+        color:black;
+    }
+    .background {
+        background-image: url("../images/bg.jpg");
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+      }
+   
+      
+
+    
+   
+   
+      
+  
+    
